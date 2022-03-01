@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://chiamaka-ugwu.github.io/Profile-Card/](https://chiamaka-ugwu.github.io/Profile-Card/)
 
 ## My process
 
